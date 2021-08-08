@@ -50,3 +50,6 @@ Controller Error / Network Disconnection Handling
 - When the controller goes down, the user has to restart the program or restore the instance directly
 - Workers are suspended at controller error situations
 
+Related Documents : 
+- Data Crawling Basics : [Data Crawling.pdf](https://github.com/habinlee/Data-crawler/files/6950390/Data.Crawling.pdf)
+- Zookeeper : [Zookeeper.pdf](https://github.com/habinlee/Data-crawler/files/6950391/Zookeeper.pdf)
